@@ -60,3 +60,15 @@ button:hover {
     font-size: 14px;
     color: #666;
 }
+
+#ad-space {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+#game-title {
+    margin-top: 20px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
