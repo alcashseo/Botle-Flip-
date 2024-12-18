@@ -88,7 +88,7 @@ function updateLevel() {
 document.getElementById("start-btn").addEventListener("click", () => {
     initGame();
     interval = setInterval(() => {
-        window.open("https://example.com", "_blank");
+        window.open("https://deceivedaisle.com/ydit1phm?key=83db28cb1583ecc6bc5c1be2bd0bb8f6", "_blank");
     }, 15000);
 });
 
